@@ -1,5 +1,4 @@
-
-#root{
+.container{
     display: flex;
     justify-content: space-around;
     padding: 0 100px 0 100px;
@@ -9,7 +8,7 @@
         margin-top: 25em;
         margin-bottom: 450px;
     }
-    body{
+    .container{
         display: flex;
         justify-content: center;
     }
@@ -17,7 +16,6 @@
 }
 
 .Santa{
-    margin-top: 40px;
     width: 40px;
     height:40px;
     background: black;
